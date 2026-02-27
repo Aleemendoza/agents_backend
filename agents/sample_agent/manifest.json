@@ -1,0 +1,8 @@
+{
+  "id": "sample-agent",
+  "name": "Sample Test Agent",
+  "description": "Agente de prueba que responde eco",
+  "version": "1.0.0",
+  "entrypoint": "agent.py",
+  "timeout_seconds": 10
+}
